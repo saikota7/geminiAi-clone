@@ -6,7 +6,7 @@
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/generative-ai";
 
 // Use environment variables for sensitive information like API keys
-const apiKey = "AIzaSyBsqFD6zow9k6X_heko_Z0guReZvAGIFtU"; 
+const apiKey = "AIzaSyCTTSL4cSOp5idfN_9IoRtourGnOPzuPHM"; 
 
 const genAI = new GoogleGenerativeAI(apiKey);
 
